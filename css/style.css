@@ -1,9 +1,12 @@
+h1{
+  font-color:  DarkSlateGrey;
+}
+
 body {
   background-color: GoldenRod;
 text-align: center;
 font-family: 'Courier Prime', monospace;
 font-style: regular;
-font-color:  DarkSlateGrey;
 
 }
 
