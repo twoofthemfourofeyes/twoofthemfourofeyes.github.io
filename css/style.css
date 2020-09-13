@@ -3,6 +3,8 @@ body {
 text-align: center;
 font-family: 'Courier Prime', monospace;
 font-style: regular;
+font:  DarkSlateGrey;
+
 
 
 }
@@ -16,3 +18,16 @@ height: auto;
 
 
 }
+
+/* unvisited link */
+a:link {
+  color: SlateGrey;
+}
+
+/* visited link */
+a:visited {
+  color: DarkSlateGrey;
+}
+
+
+
