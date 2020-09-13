@@ -1,15 +1,15 @@
-h1{
-  font-color:  DarkSlateGrey;
-}
+
 
 body {
   background-color: GoldenRod;
 text-align: center;
 font-family: 'Courier Prime', monospace;
 font-style: regular;
-
 }
 
+h1{
+  color:  DarkSlateGrey;
+}
 
 /* unvisited link */
 a:link {
