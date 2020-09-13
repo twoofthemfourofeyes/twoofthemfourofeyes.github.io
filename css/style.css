@@ -9,7 +9,10 @@ font-style: regular;
 
 .post {
   display: block;
-      margin-left: auto;
-      margin-right: auto
+margin-left: auto;
+margin-right: auto;
+transform: scale(80%);
+height: auto;
+
 
 }
