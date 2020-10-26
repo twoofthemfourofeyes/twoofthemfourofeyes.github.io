@@ -20,6 +20,8 @@ a:link {
 a:visited {
   color: DarkSlateGrey;
 }
-
+p{
+  padding: 20%;
+}
 
 
